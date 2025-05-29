@@ -1,7 +1,13 @@
-./local-rag/*
-local-rag/*
-venv/*
+# ./local-rag/*
+# local-rag/*
+# venv/*
 
-.ipynb_checkpoints/* 
+# .ipynb_checkpoints/* 
 
-text_chunks_and_embeddings_df.csv
+# text_chunks_and_embeddings_df.csv
+
+
+venv/
+Tokens.txt
+reference/
+.env
